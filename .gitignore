@@ -1,0 +1,4 @@
+node_modules/*
+.git/*
+*.code-workspace
+package-lock.json
